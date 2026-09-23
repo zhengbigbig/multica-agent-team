@@ -2,7 +2,6 @@
 
 - **模型**：glm-5.3-flash
 - **描述**：manage-panel 运维后台前端
-- **运行时**：claude
 
 ## 岗位指令（instructions）
 

@@ -2,7 +2,6 @@
 
 - **模型**：glm-5.3-flash
 - **描述**：小程序全部页面
-- **运行时**：claude
 
 ## 岗位指令（instructions）
 

@@ -2,7 +2,6 @@
 
 - **模型**：glm-5.3-flash
 - **描述**：运维面板接口
-- **运行时**：claude
 
 ## 岗位指令（instructions）
 

@@ -1,8 +1,7 @@
 # spec工程师
 
-- **模型**：glm-5.3
+- **模型**：glm-5.3-flash
 - **描述**：复杂需求澄清与执行spec
-- **运行时**：claude
 
 ## 岗位指令（instructions）
 
